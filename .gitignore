@@ -1,0 +1,5 @@
+/.eggs/
+/build/
+/dist/
+/google_calendar.egg-info/
+*.pyc
